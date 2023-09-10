@@ -1212,7 +1212,7 @@ CHC动作电影 标清,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
 深圳卫视,https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
 四川卫视,https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
 山东卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
-河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
+河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 河北卫视,https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
 江西卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
 天津卫视,https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
