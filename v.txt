@@ -271,7 +271,7 @@ CCTV17,https://dispatchnew.ulivetv.net/v/live/cgmur41547nk.m3u8?stream_id=cgmur4
 云南卫视,https://dispatchnew.ulivetv.net/v/live/cgx3ceil31s0.m3u8?stream_id=cgx3ceil31s0&token=c0vzuc7wqkzk
 广东卫视,https://dispatchnew.ulivetv.net/v/live/cgwvo5slhbcw.m3u8?stream_id=cgwvo5slhbcw&token=c0vzuc7wqkzk
 安徽卫视,https://dispatchnew.ulivetv.net/v/live/cgx3d4vuzwe8.m3u8?stream_id=cgx3d4vuzwe8&token=c0vzuc7wqkzk
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 青海卫视,https://dispatchnew.ulivetv.net/v/live/cgx3cr9px5ts.m3u8?stream_id=cgx3cr9px5ts&token=c0vzuc7wqkzk
 第一财经,https://dispatchnew.ulivetv.net/v/live/ckwkwro7fwe8.m3u8?stream_id=ckwkwro7fwe8&token=c0vzuc7wqkzk
 北京财经,https://dispatchnew.ulivetv.net/v/live/cgxaky5ampj4.m3u8?stream_id=cgxaky5ampj4&token=c0vzuc7wqkzk
@@ -407,7 +407,7 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -476,7 +476,7 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 深圳卫视,https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
 四川卫视,https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
 山东卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
 河北卫视,https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
 江西卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
 天津卫视,https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
@@ -577,7 +577,7 @@ CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -835,8 +835,8 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 广东卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
 广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,http://218.204.51.252:9901/tsfile/live/1031_1.m3u8
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
+河南卫视,http://218.204.51.252:9901/tsfile/live/1039_1.m3u8
 山西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
 山西卫视,http://218.204.51.252:9901/tsfile/live/1043_1.m3u8
 兵团卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
@@ -1000,7 +1000,7 @@ CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 BesTV-4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
@@ -4872,7 +4872,7 @@ CHANNEl V,http://113.117.74.17:808/hls/88/index.m3u8
 涪陵电视台,http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
 
 ⛱️河南,#genre#
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 中牟综合频道,http://rtsp.zmgdcm.cn:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect.m3u8?zhend
