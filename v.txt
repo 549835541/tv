@@ -60,231 +60,235 @@ CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.
 
 
 🌍星世界,#genre#
-中天新闻,http://211.72.65.236:8554/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
-中天新闻,http://211.72.65.236:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
-寰宇新闻,http://211.72.65.236:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-东森新闻,http://211.72.65.236:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-三立新闻,http://211.72.65.236:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-年代新闻,http://211.72.65.236:8539/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-壹新闻,http://211.72.65.236:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-凤凰中文,https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?stream_id=cg4l8oajkyww&token=c0vzuc7wqkzk
-凤凰资讯,https://us.dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&token=c0vzuc7wqkzk
-凤凰香港,https://us.dispatch.ulivetv.net/v/live/cfxs8eqh503k.m3u8?stream_id=cfxs8eqh503k&token=c0vzuc7wqkzk
-翡翠台,https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
-J2,https://dispatchnew.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&token=c0vzuc7wqkzk
-TVB明珠,https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
-HOYTV,https://dispatchnew.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&token=c0vzuc7wqkzk
-HOY资讯,https://dispatchnew.ulivetv.net/v/live/ccns0cgwuf9c.m3u8?stream_id=ccns0cgwuf9c&token=c0vzuc7wqkzk
-VIUTV,https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&token=c0vzuc7wqkzk
-VIUTV6,https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&token=c0vzuc7wqkzk
-TVB无线新闻,https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&token=c0vzuc7wqkzk
-TVB无线财经,https://dispatchnew.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&token=c0vzuc7wqkzk
-NOW财经台,https://us.dispatch.ulivetv.net/v/live/cnnrkvw6g98g.m3u8?stream_id=cnnrkvw6g98g&token=c0vzuc7wqkzk
-NOW爆谷台,http://us.dispatch.ulivetv.net/v/live/crq3y08d6hq8.m3u8?stream_id=crq3y08d6hq8%20%20&token=c0vzuc7wqkzk
-香港国际财经,https://dispatchnew.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&token=c0vzuc7wqkzk
-TVB娱乐新闻,https://us.dispatch.ulivetv.net/v/live/cnkh00kniz0g.m3u8?stream_id=cnkh00kniz0g&token=c0vzuc7wqkzk
-TVB星河,https://us.dispatch.ulivetv.net/v/live/cl7c95iovqo0.m3u8?stream_id=cl7c95iovqo0&token=c0vzuc7wqkzk
-TVB经典台,https://us.dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&token=c0vzuc7wqkzk
-TVB华语剧台,https://us.dispatch.ulivetv.net/v/live/ciw8gobsylds.m3u8?stream_id=ciw8gobsylds&token=c0vzuc7wqkzk
-TVB粤语片,https://us.dispatch.ulivetv.net/v/live/cnv47oyqlmtc.m3u8?stream_id=cnv47oyqlmtc&token=c0vzuc7wqkzk
-TVB亚洲剧,https://us.dispatch.ulivetv.net/v/live/cnyy2jy9gdds.m3u8?stream_id=cnyy2jy9gdds&token=c0vzuc7wqkzk
-RTHK31,https://dispatchnew.ulivetv.net/v/live/ccnfegd7luio.m3u8?stream_id=ccnfegd7luio&token=c0vzuc7wqkzk
-RTHK32,https://dispatchnew.ulivetv.net/v/live/ccnp0ueaq75s.m3u8?stream_id=ccnp0ueaq75s&token=c0vzuc7wqkzk
-
-澳视澳门,https://us.dispatch.ulivetv.net/v/live/cfxt168it3gg.m3u8?stream_id=cfxt168it3gg&token=c0vzuc7wqkzk
-澳门资讯,https://us.dispatch.ulivetv.net/v/live/cfxt8hrg64lc.m3u8?stream_id=cfxt8hrg64lc&token=c0vzuc7wqkzk
-澳门莲花,https://us.dispatch.ulivetv.net/v/live/cl7c8hsq3f0g.m3u8?stream_id=cl7c8hsq3f0g&token=c0vzuc7wqkzk
-
-TVBSHD,https://us.dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&token=c0vzuc7wqkzk
-TVBS亚洲,https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
-TVBS新闻,https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&token=c0vzuc7wqkzk
-寰宇新闻,https://us.dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&token=c0vzuc7wqkzk
-华视新闻,https://us.dispatch.ulivetv.net/v/live/cfxxj2c5l6f4.m3u8?stream_id=cfxxj2c5l6f4&token=c0vzuc7wqkzk
-中天新闻,https://us.dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&token=c0vzuc7wqkzk
-镜新闻,https://us.dispatch.ulivetv.net/v/live/cfxxf3nxvem8.m3u8?stream_id=cfxxf3nxvem8&token=c0vzuc7wqkzk
-镜天资讯,https://us.dispatch.ulivetv.net/v/live/cg16rqyr0wqo.m3u8?stream_id=cg16rqyr0wqo&token=c0vzuc7wqkzk
-中视新闻,https://us.dispatch.ulivetv.net/v/live/clev54g636bk.m3u8?stream_id=clev54g636bk&token=c0vzuc7wqkzk
-台视新闻,https://us.dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&token=c0vzuc7wqkzk
-年代新闻,https://us.dispatch.ulivetv.net/v/live/cl7cbgg2j000.m3u8?stream_id=cl7cbgg2j000&token=c0vzuc7wqkzk
-非凡新闻,https://us.dispatch.ulivetv.net/v/live/cl7cc13lsxc0.m3u8?stream_id=cl7cc13lsxc0&token=c0vzuc7wqkzk
-东森新闻,https://us.dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&token=c0vzuc7wqkzk
-东森财经新闻,https://us.dispatch.ulivetv.net/v/live/cl7c5f64zg74.m3u8?stream_id=cl7c5f64zg74&token=c0vzuc7wqkzk
-
-中视,https://us.dispatch.ulivetv.net/v/live/cfm2qel2kn9c.m3u8?stream_id=cfm2qel2kn9c&token=c0vzuc7wqkzk
-中视,https://us.dispatch.ulivetv.net/v/live/cl7c5tec5wow.m3u8?stream_id=cl7c5tec5wow&token=c0vzuc7wqkzk
-华视,https://us.dispatch.ulivetv.net/v/live/cl7c69hc4m2o.m3u8?stream_id=cl7c69hc4m2o&token=c0vzuc7wqkzk
-台视,https://us.dispatch.ulivetv.net/v/live/cl7c6o644t6o.m3u8?stream_id=cl7c6o644t6o&token=c0vzuc7wqkzk
-公视,https://us.dispatch.ulivetv.net/v/live/cg0hhu6qlpz4.m3u8?stream_id=cg0hhu6qlpz4&token=c0vzuc7wqkzk
-公视3,https://us.dispatch.ulivetv.net/v/live/cg0hro4vn54w.m3u8?stream_id=cg0hro4vn54w&token=c0vzuc7wqkzk
-中天亚洲,https://us.dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&token=c0vzuc7wqkzk
-东森超视,https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
-靖天国际台,https://us.dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&token=c0vzuc7wqkzk
-中天综合,https://us.dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&token=c0vzuc7wqkzk
-八大综合,https://us.dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&token=c0vzuc7wqkzk
-东森综合,https://us.dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&token=c0vzuc7wqkzk
-纬来日本,https://us.dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&token=c0vzuc7wqkzk
-纬来综合,https://us.dispatch.ulivetv.net/v/live/cl7clh349vpc.m3u8?stream_id=cl7clh349vpc&token=c0vzuc7wqkzk
-八大第一,https://us.dispatch.ulivetv.net/v/live/cs0cbcjywtog.m3u8?stream_id=cs0cbcjywtog&token=c0vzuc7wqkzk
-ELTA综合,https://us.dispatch.ulivetv.net/v/live/cl7cqw6n9sqo.m3u8?stream_id=cl7cqw6n9sqo&token=c0vzuc7wqkzk
-TVBS欢乐,https://us.dispatch.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?stream_id=cg0hzu3sgc00&token=c0vzuc7wqkzk
-中天娱乐,https://us.dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&token=c0vzuc7wqkzk
-八大娱乐,https://us.dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&token=c0vzuc7wqkzk
-
-东森电影,https://us.dispatch.ulivetv.net/v/live/cg488dxn8xxc.m3u8?stream_id=cg488dxn8xxc&token=c0vzuc7wqkzk
-东森电影,https://us.dispatch.ulivetv.net/v/live/cl7ca5o7h4n4.m3u8?stream_id=cl7ca5o7h4n4&token=c0vzuc7wqkzk
-东森戏剧,https://us.dispatch.ulivetv.net/v/live/cl7caihk7zr4.m3u8?stream_id=cl7caihk7zr4&token=c0vzuc7wqkzk
-东森洋片,https://us.dispatch.ulivetv.net/v/live/cl7cavg498sg.m3u8?stream_id=cl7cavg498sg&token=c0vzuc7wqkzk
-卫视中文台,https://us.dispatch.ulivetv.net/v/live/cl7ciyx4pznk.m3u8?stream_id=cl7ciyx4pznk&token=c0vzuc7wqkzk
-卫视电影台,https://us.dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&token=c0vzuc7wqkzk
-龙祥电影台,https://us.dispatch.ulivetv.net/v/live/cl7cjqrlyzeo.m3u8?stream_id=cl7cjqrlyzeo&token=c0vzuc7wqkzk
-好莱坞电影,https://us.dispatch.ulivetv.net/v/live/cl7ck1qkwzpc.m3u8?stream_id=cl7ck1qkwzpc&token=c0vzuc7wqkzk
-八大戏剧,https://us.dispatch.ulivetv.net/v/live/cl7ckupkipc0.m3u8?stream_id=cl7ckupkipc0&token=c0vzuc7wqkzk
-纬来戏剧,https://us.dispatch.ulivetv.net/v/live/cl7cm1w9tl1c.m3u8?stream_id=cl7cm1w9tl1c&token=c0vzuc7wqkzk
-纬来电影,https://us.dispatch.ulivetv.net/v/live/cl7cmdp021mo.m3u8?stream_id=cl7cmdp021mo&token=c0vzuc7wqkzk
-龙华电影,https://us.dispatch.ulivetv.net/v/live/cl7cmqsyvdmo.m3u8?stream_id=cl7cmqsyvdmo&token=c0vzuc7wqkzk
-龙华洋片,https://us.dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&token=c0vzuc7wqkzk
-靖天电影,https://us.dispatch.ulivetv.net/v/live/cl7cnhrqwreo.m3u8?stream_id=cl7cnhrqwreo&token=c0vzuc7wqkzk
-美亚电影,https://us.dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&token=c0vzuc7wqkzk
-MTV Live ,https://us.dispatch.ulivetv.net/v/live/clecsxddtsxs.m3u8?stream_id=clecsxddtsxs&token=c0vzuc7wqkzk
-靖洋戏剧,https://us.dispatch.ulivetv.net/v/live/clect8xzw534.m3u8?stream_id=clect8xzw534&token=c0vzuc7wqkzk
-ELTA影剧,https://us.dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&token=c0vzuc7wqkzk
-ELTA戏剧,https://us.dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&token=c0vzuc7wqkzk
-星卫电影台,https://us.dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&token=c0vzuc7wqkzk
-星卫娱乐,https://us.dispatch.ulivetv.net/v/live/cl7csf4rd2gw.m3u8?stream_id=cl7csf4rd2gw&token=c0vzuc7wqkzk
-天映经典,https://us.dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&token=c0vzuc7wqkzk
-天映频道,https://us.dispatch.ulivetv.net/v/live/cg4jy3qvi6kg.m3u8?stream_id=cg4jy3qvi6kg&token=c0vzuc7wqkzk
-
-纬来体育,https://us.dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&token=c0vzuc7wqkzk
-ELEVEN1,https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&token=c0vzuc7wqkzk
-ELEVEN2,https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&token=c0vzuc7wqkzk
-博斯运动1,https://us.dispatch.ulivetv.net/v/live/cg1mq9e7sl34.m3u8?stream_id=cg1mq9e7sl34&token=c0vzuc7wqkzk
-博斯运动2,https://us.dispatch.ulivetv.net/v/live/cg1mvz20c14w.m3u8?stream_id=cg1mvz20c14w&token=c0vzuc7wqkzk
-博斯高球1,https://us.dispatch.ulivetv.net/v/live/cg1n0b4bgbeo.m3u8?stream_id=cg1n0b4bgbeo&token=c0vzuc7wqkzk
-博斯高球2,https://us.dispatch.ulivetv.net/v/live/cg1n6ib9u4sg.m3u8?stream_id=cg1n6ib9u4sg&token=c0vzuc7wqkzk
-博斯网球,https://us.dispatch.ulivetv.net/v/live/cg1nb00eplts.m3u8?stream_id=cg1nb00eplts&token=c0vzuc7wqkzk
-Astro SuperSport1,https://us.dispatch.ulivetv.net/v/live/cg1npm2qvn40.m3u8?stream_id=cg1npm2qvn40&token=c0vzuc7wqkzk
-Astro SuperSport2,https://us.dispatch.ulivetv.net/v/live/cg1o236o5ubk.m3u8?stream_id=cg1o236o5ubk&token=c0vzuc7wqkzk
-Astro SuperSport3,https://us.dispatch.ulivetv.net/v/live/cg1occ9jk43k.m3u8?stream_id=cg1occ9jk43k&token=c0vzuc7wqkzk
-Astro SuperSport4,https://us.dispatch.ulivetv.net/v/live/cg1okgbznhs0.m3u8?stream_id=cg1okgbznhs0&token=c0vzuc7wqkzk
-欧洲体育1,https://us.dispatch.ulivetv.net/v/live/cl7cnsau00jk.m3u8?stream_id=cl7cnsau00jk&token=c0vzuc7wqkzk
-欧洲体育2,https://us.dispatch.ulivetv.net/v/live/cg1p37xozmio.m3u8?stream_id=cg1p37xozmio&token=c0vzuc7wqkzk
-beIN Sports Max,https://us.dispatch.ulivetv.net/v/live/cg1pl1djbidc.m3u8?stream_id=cg1pl1djbidc&token=c0vzuc7wqkzk
-SPOTV,https://us.dispatch.ulivetv.net/v/live/cg4y76plhgw0.m3u8?stream_id=cg4y76plhgw0&token=c0vzuc7wqkzk
-SPOTV2,https://us.dispatch.ulivetv.net/v/live/cg4vpue7oa80.m3u8?stream_id=cg4vpue7oa80&token=c0vzuc7wqkzk
-beIN Sports1,https://us.dispatch.ulivetv.net/v/live/cg4725fntcqo.m3u8?stream_id=cg4725fntcqo&token=c0vzuc7wqkzk
-beIN Sports2,https://us.dispatch.ulivetv.net/v/live/cg476ghmetvk.m3u8?stream_id=cg476ghmetvk&token=c0vzuc7wqkzk
-beIN Sports3,https://us.dispatch.ulivetv.net/v/live/cg47a0abw91c.m3u8?stream_id=cg47a0abw91c&token=c0vzuc7wqkzk
-欧洲体育,https://us.dispatch.ulivetv.net/v/live/cg4yqzuewerk.m3u8?stream_id=cg4yqzuewerk&token=c0vzuc7wqkzk
-博斯无限,https://us.dispatch.ulivetv.net/v/live/clecumtydz28.m3u8?stream_id=clecumtydz28&token=c0vzuc7wqkzk
-NBA,https://us.dispatch.ulivetv.net/v/live/cl7cdvv53n40.m3u8?stream_id=cl7cdvv53n40&token=c0vzuc7wqkzk
-ELTA体育1,https://us.dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&token=c0vzuc7wqkzk
-ELTA体育2,https://us.dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&token=c0vzuc7wqkzk
-ELTA体育3,https://us.dispatch.ulivetv.net/v/live/cnnh2pl4cam8.m3u8?stream_id=cnnh2pl4cam8&token=c0vzuc7wqkzk
-
-靖天卡通,https://us.dispatch.ulivetv.net/v/live/cg16vy7fp9s0.m3u8?stream_id=cg16vy7fp9s0&token=c0vzuc7wqkzk
-Astro小太阳,https://us.dispatch.ulivetv.net/v/live/cgbwueb4f8hs.m3u8?stream_id=cgbwueb4f8hs&token=c0vzuc7wqkzk
-东森幼幼,https://us.dispatch.ulivetv.net/v/live/ciw8f5pwdghs.m3u8?stream_id=ciw8f5pwdghs&token=c0vzuc7wqkzk
-MOMOTV,https://us.dispatch.ulivetv.net/v/live/ciw8e2mbl9z4.m3u8?stream_id=ciw8e2mbl9z4&token=c0vzuc7wqkzk
-迪士尼频道,https://us.dispatch.ulivetv.net/v/live/cl7ccczgethc.m3u8?stream_id=cl7ccczgethc&token=c0vzuc7wqkzk
-小尼克频道,https://us.dispatch.ulivetv.net/v/live/cl7ccsvv560w.m3u8?stream_id=cl7ccsvv560w&token=c0vzuc7wqkzk
-MOMO亲子,https://us.dispatch.ulivetv.net/v/live/cl7cd4sc85a8.m3u8?stream_id=cl7cd4sc85a8&token=c0vzuc7wqkzk
-CN卡通,https://us.dispatch.ulivetv.net/v/live/cl7cebyhju80.m3u8?stream_id=cl7cebyhju80&token=c0vzuc7wqkzk
-Bloomeranq,https://us.dispatch.ulivetv.net/v/live/cl7cetj6bz5s.m3u8?stream_id=cl7cetj6bz5s&token=c0vzuc7wqkzk
-Animax卡通,https://us.dispatch.ulivetv.net/v/live/cl7cf8045n7k.m3u8?stream_id=cl7cf8045n7k&token=c0vzuc7wqkzk
-尼克儿童频道,https://us.dispatch.ulivetv.net/v/live/clecty3pkqm8.m3u8?stream_id=clecty3pkqm8&token=c0vzuc7wqkzk
-
-国家地理,https://us.dispatch.ulivetv.net/v/live/cg1khzm3mzls.m3u8?stream_id=cg1khzm3mzls&token=c0vzuc7wqkzk
-国家地理野生,https://us.dispatch.ulivetv.net/v/live/cg1kmp2fnw00.m3u8?stream_id=cg1kmp2fnw00&token=c0vzuc7wqkzk
-动物星球,https://us.dispatch.ulivetv.net/v/live/cg1l4589x9s0.m3u8?stream_id=cg1l4589x9s0&token=c0vzuc7wqkzk
-DMAX,https://us.dispatch.ulivetv.net/v/live/cg1lcqvmahfk.m3u8?stream_id=cg1lcqvmahfk&token=c0vzuc7wqkzk
-探索科学,https://us.dispatch.ulivetv.net/v/live/cg1lhf32n268.m3u8?stream_id=cg1lhf32n268&token=c0vzuc7wqkzk
-探索亚洲,https://us.dispatch.ulivetv.net/v/live/cr8qvn9sf96o.m3u8?stream_id=cr8qvn9sf96o%20&token=c0vzuc7wqkzk
-History,https://us.dispatch.ulivetv.net/v/live/cl7ch406n6ww.m3u8?stream_id=cl7ch406n6ww&token=c0vzuc7wqkzk
-History2,https://us.dispatch.ulivetv.net/v/live/cl7chgdb1t4w.m3u8?stream_id=cl7chgdb1t4w&token=c0vzuc7wqkzk
-TLC旅游生活,https://us.dispatch.ulivetv.net/v/live/cl7chv63w4ao.m3u8?stream_id=cl7chv63w4ao&token=c0vzuc7wqkzk
-CI罪案侦查,https://us.dispatch.ulivetv.net/v/live/cl7ci6wopq68.m3u8?stream_id=cl7ci6wopq68&token=c0vzuc7wqkzk
-亚洲旅游,https://us.dispatch.ulivetv.net/v/live/cl7cikas48n4.m3u8?stream_id=cl7cikas48n4&token=c0vzuc7wqkzk
-美食星球,https://us.dispatch.ulivetv.net/v/live/cl7cq7br5d4w.m3u8?stream_id=cl7cq7br5d4w&token=c0vzuc7wqkzk
-EYE旅游,https://us.dispatch.ulivetv.net/v/live/cl7crdhyxn0g.m3u8?stream_id=cl7crdhyxn0g&token=c0vzuc7wqkzk
-
-ABC新闻,https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&token=c0vzuc7wqkzk
-FOX新闻,https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&token=c0vzuc7wqkzk
-BBC世界新闻,https://us.dispatch.ulivetv.net/v/live/cfxzpvvyodkw.m3u8?stream_id=cfxzpvvyodkw&token=c0vzuc7wqkzk
-CNN,https://us.dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&token=c0vzuc7wqkzk
-CBS新闻,https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo&token=c0vzuc7wqkzk
-CNBC,https://us.dispatch.ulivetv.net/v/live/cl7cdjqouc3k.m3u8?stream_id=cl7cdjqouc3k&token=c0vzuc7wqkzk
-HBO ,https://us.dispatch.ulivetv.net/v/live/cl7cfnwsvl4w.m3u8?stream_id=cl7cfnwsvl4w&token=c0vzuc7wqkzk
-HBO Hits,https://us.dispatch.ulivetv.net/v/live/cl7cgrkacmv4.m3u8?stream_id=cl7cgrkacmv4&token=c0vzuc7wqkzk
-HLN,https://us.dispatch.ulivetv.net/v/live/cl7cstetysao.m3u8?stream_id=cl7cstetysao&token=c0vzuc7wqkzk
-CNN国际,https://us.dispatch.ulivetv.net/v/live/cl7ct8ccm6yo.m3u8?stream_id=cl7ct8ccm6yo&token=c0vzuc7wqkzk
-欧洲新闻,https://us.dispatch.ulivetv.net/v/live/cl7ctk7x8hq8.m3u8?stream_id=cl7ctk7x8hq8&token=c0vzuc7wqkzk
-
-
-CCTV1,https://dispatchnew.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&token=c0vzuc7wqkzk
-CCTV2,https://dispatchnew.ulivetv.net/v/live/c9vu0827ucao.m3u8?stream_id=c9vu0827ucao&token=c0vzuc7wqkzk
-CCTV3,https://dispatchnew.ulivetv.net/v/live/c9vu0ly50rls.m3u8?stream_id=c9vu0ly50rls&token=c0vzuc7wqkzk
-CCTV4,https://dispatchnew.ulivetv.net/v/live/c9vu1clej000.m3u8?stream_id=c9vu1clej000&token=c0vzuc7wqkzk
-CCTV5,https://dispatchnew.ulivetv.net/v/live/c9vu1o0ob5j4.m3u8?stream_id=c9vu1o0ob5j4&token=c0vzuc7wqkzk
-CCTV5+,https://dispatchnew.ulivetv.net/v/live/cgn39awxymrk.m3u8?stream_id=cgn39awxymrk&token=c0vzuc7wqkzk
-CCTV6,https://dispatchnew.ulivetv.net/v/live/cgn10iblu2f4.m3u8?stream_id=cgn10iblu2f4&token=c0vzuc7wqkzk
-CCTV7,https://dispatchnew.ulivetv.net/v/live/cgn1c6p2o2io.m3u8?stream_id=cgn1c6p2o2io&token=c0vzuc7wqkzk
-CCTV8,https://dispatchnew.ulivetv.net/v/live/cgn1g1rn5k8w.m3u8?stream_id=cgn1g1rn5k8w&token=c0vzuc7wqkzk
-CCTV9,https://dispatchnew.ulivetv.net/v/live/cgn1jfvngjb4.m3u8?stream_id=cgn1jfvngjb4&token=c0vzuc7wqkzk
-CCTV10,https://dispatchnew.ulivetv.net/v/live/cgn1mnc500qo.m3u8?stream_id=cgn1mnc500qo&token=c0vzuc7wqkzk
-CCTV11,https://dispatchnew.ulivetv.net/v/live/cgn1qxe3k6gw.m3u8?stream_id=cgn1qxe3k6gw&token=c0vzuc7wqkzk
-CCTV12,https://dispatchnew.ulivetv.net/v/live/cgn1u1zurzy8.m3u8?stream_id=cgn1u1zurzy8&token=c0vzuc7wqkzk
-CCTV13,https://dispatchnew.ulivetv.net/v/live/cgn1x0999zgg.m3u8?stream_id=cgn1x0999zgg&token=c0vzuc7wqkzk
-CCTV14,https://dispatchnew.ulivetv.net/v/live/cgn20xip2280.m3u8?stream_id=cgn20xip2280&token=c0vzuc7wqkzk
-CCTV15,https://dispatchnew.ulivetv.net/v/live/cgn240uqmrwg.m3u8?stream_id=cgn240uqmrwg&token=c0vzuc7wqkzk
-CCTV16,https://dispatchnew.ulivetv.net/v/live/cgn277dnje0w.m3u8?stream_id=cgn277dnje0w&token=c0vzuc7wqkzk
-CCTV17,https://dispatchnew.ulivetv.net/v/live/cgmur41547nk.m3u8?stream_id=cgmur41547nk&token=c0vzuc7wqkzk
-北京卫视,https://dispatchnew.ulivetv.net/v/live/cgwvkn768jwg.m3u8?stream_id=cgwvkn768jwg&token=c0vzuc7wqkzk
-湖南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0&token=c0vzuc7wqkzk
-浙江卫视,https://dispatchnew.ulivetv.net/v/live/cgwvlwcmnw74.m3u8?stream_id=cgwvlwcmnw74&token=c0vzuc7wqkzk
-东方卫视,https://dispatchnew.ulivetv.net/v/live/cgwvmejnjcg0.m3u8?stream_id=cgwvmejnjcg0&token=c0vzuc7wqkzk
-江苏卫视,https://dispatchnew.ulivetv.net/v/live/cgwvmpf84bsw.m3u8?stream_id=cgwvmpf84bsw&token=c0vzuc7wqkzk
-重庆卫视,https://dispatchnew.ulivetv.net/v/live/cgwvmz9yp7ls.m3u8?stream_id=cgwvmz9yp7ls&token=c0vzuc7wqkzk
-东南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvn8vw4zi8.m3u8?stream_id=cgwvn8vw4zi8&token=c0vzuc7wqkzk
-海峡卫视,https://dispatchnew.ulivetv.net/v/live/cgwvnm2cuny8.m3u8?stream_id=cgwvnm2cuny8&token=c0vzuc7wqkzk
-甘肃卫视,https://dispatchnew.ulivetv.net/v/live/cgwvnvzbcatc.m3u8?stream_id=cgwvnvzbcatc&token=c0vzuc7wqkzk
-广西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvoiircukg.m3u8?stream_id=cgwvoiircukg&token=c0vzuc7wqkzk
-贵州卫视,https://dispatchnew.ulivetv.net/v/live/cgwvovrpyvgg.m3u8?stream_id=cgwvovrpyvgg&token=c0vzuc7wqkzk
-海南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvp8nuloe8.m3u8?stream_id=cgwvp8nuloe8&token=c0vzuc7wqkzk
-河北卫视,https://dispatchnew.ulivetv.net/v/live/cgwvpk4zt39c.m3u8?stream_id=cgwvpk4zt39c&token=c0vzuc7wqkzk
-黑龙江卫视,https://dispatchnew.ulivetv.net/v/live/cgwvptziwa0w.m3u8?stream_id=cgwvptziwa0w&token=c0vzuc7wqkzk
-湖北卫视,https://dispatchnew.ulivetv.net/v/live/cgwvq50s8xq8.m3u8?stream_id=cgwvq50s8xq8&token=c0vzuc7wqkzk
-江西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvqdlj74cg.m3u8?stream_id=cgwvqdlj74cg&token=c0vzuc7wqkzk
-吉林卫视,https://dispatchnew.ulivetv.net/v/live/cgwvqoks4q0w.m3u8?stream_id=cgwvqoks4q0w&token=c0vzuc7wqkzk
-辽宁卫视,https://dispatchnew.ulivetv.net/v/live/cgwvr05o6nk0.m3u8?stream_id=cgwvr05o6nk0&token=c0vzuc7wqkzk
-南方卫视,https://dispatchnew.ulivetv.net/v/live/cgwvrf1besw0.m3u8?stream_id=cgwvrf1besw0&token=c0vzuc7wqkzk
-内蒙古卫视,https://dispatchnew.ulivetv.net/v/live/cgwvrqb6evgg.m3u8?stream_id=cgwvrqb6evgg&token=c0vzuc7wqkzk
-宁夏卫视,https://dispatchnew.ulivetv.net/v/live/cgwvs6rwtha8.m3u8?stream_id=cgwvs6rwtha8&token=c0vzuc7wqkzk
-陕西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvsn6paxfk.m3u8?stream_id=cgwvsn6paxfk&token=c0vzuc7wqkzk
-山东卫视,https://dispatchnew.ulivetv.net/v/live/cgwvsyb0j4cg.m3u8?stream_id=cgwvsyb0j4cg&token=c0vzuc7wqkzk
-山西卫视,https://dispatchnew.ulivetv.net/v/live/cgwvt9ytgse8.m3u8?stream_id=cgwvt9ytgse8&token=c0vzuc7wqkzk
-深圳卫视,https://dispatchnew.ulivetv.net/v/live/cgwvto57pvwg.m3u8?stream_id=cgwvto57pvwg&token=c0vzuc7wqkzk
-四川卫视,https://dispatchnew.ulivetv.net/v/live/cgwvu1zegukg.m3u8?stream_id=cgwvu1zegukg&token=c0vzuc7wqkzk
-天津卫视,https://dispatchnew.ulivetv.net/v/live/cgwvuduf3ykg.m3u8?stream_id=cgwvuduf3ykg&token=c0vzuc7wqkzk
-厦门卫视,https://dispatchnew.ulivetv.net/v/live/cgwvuwd6098g.m3u8?stream_id=cgwvuwd6098g&token=c0vzuc7wqkzk
-新疆卫视,https://dispatchnew.ulivetv.net/v/live/cgx3bru59t4w.m3u8?stream_id=cgx3bru59t4w&token=c0vzuc7wqkzk
-西藏卫视,https://dispatchnew.ulivetv.net/v/live/cgx3c49cldq8.m3u8?stream_id=cgx3c49cldq8&token=c0vzuc7wqkzk
-云南卫视,https://dispatchnew.ulivetv.net/v/live/cgx3ceil31s0.m3u8?stream_id=cgx3ceil31s0&token=c0vzuc7wqkzk
-广东卫视,https://dispatchnew.ulivetv.net/v/live/cgwvo5slhbcw.m3u8?stream_id=cgwvo5slhbcw&token=c0vzuc7wqkzk
-安徽卫视,https://dispatchnew.ulivetv.net/v/live/cgx3d4vuzwe8.m3u8?stream_id=cgx3d4vuzwe8&token=c0vzuc7wqkzk
-河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-青海卫视,https://dispatchnew.ulivetv.net/v/live/cgx3cr9px5ts.m3u8?stream_id=cgx3cr9px5ts&token=c0vzuc7wqkzk
-第一财经,https://dispatchnew.ulivetv.net/v/live/ckwkwro7fwe8.m3u8?stream_id=ckwkwro7fwe8&token=c0vzuc7wqkzk
-北京财经,https://dispatchnew.ulivetv.net/v/live/cgxaky5ampj4.m3u8?stream_id=cgxaky5ampj4&token=c0vzuc7wqkzk
-上海都市,https://dispatchnew.ulivetv.net/v/live/cgxal7azq8jk.m3u8?stream_id=cgxal7azq8jk&token=c0vzuc7wqkzk
-上海新闻,https://dispatchnew.ulivetv.net/v/live/cgxalg4ysx4w.m3u8?stream_id=cgxalg4ysx4w&token=c0vzuc7wqkzk
-广东珠江,https://dispatchnew.ulivetv.net/v/live/ckwku6d5hgw0.m3u8?stream_id=ckwku6d5hgw0&token=c0vzuc7wqkzk
-湖南经视,https://dispatchnew.ulivetv.net/v/live/cgxalg4ysx4w.m3u8?stream_id=cgxalg4ysx4w&token=c0vzuc7wqkzk
-北京体育休闲,https://dispatchnew.ulivetv.net/v/live/cgxam6v2ozpc.m3u8?stream_id=cgxam6v2ozpc&token=c0vzuc7wqkzk
-五星体育,https://dispatchnew.ulivetv.net/v/live/cgxamfznu56o.m3u8?stream_id=cgxamfznu56o&token=c0vzuc7wqkzk
-天津体育,https://dispatchnew.ulivetv.net/v/live/cgxamprz0kw0.m3u8?stream_id=cgxamprz0kw0&token=c0vzuc7wqkzk
-辽宁体育,https://dispatchnew.ulivetv.net/v/live/cgxamzvb8vk0.m3u8?stream_id=cgxamzvb8vk0&token=c0vzuc7wqkzk
-广东体育,https://dispatchnew.ulivetv.net/v/live/cgxanasc9q68.m3u8?stream_id=cgxanasc9q68&token=c0vzuc7wqkzk
-
+凤凰中文,http://iiimkk.v2.goodday2.top/smt.php?id=phoenixtv_hd
+凤凰资讯,http://iiimkk.v2.goodday2.top/smt.php?id=phoenixinfo_hd
+香港台,http://iiimkk.v2.goodday2.top/smt.php?id=hkphoenix_twn
+RTHK31,http://iiimkk.v2.goodday2.top/smt.php?id=rhk31_twn
+RTHK32,http://iiimkk.v2.goodday2.top/smt.php?id=rhk32_twn
+翡翠台,http://iiimkk.v2.goodday2.top/smt.php?id=jade_twn
+无线新闻台,http://iiimkk.v2.goodday2.top/smt.php?id=inews_twn
+无线财经台,http://iiimkk.v2.goodday2.top/smt.php?id=tvbcaijing_twn
+TVB星河,http://iiimkk.v2.goodday2.top/smt.php?id=tvbxinhe_twn
+J2,http://iiimkk.v2.goodday2.top/smt.php?id=j2_twn
+明珠台,http://iiimkk.v2.goodday2.top/smt.php?id=pearl_twn
+VIUTV,http://iiimkk.v2.goodday2.top/smt.php?id=viu1_twn
+VIUTV6,http://iiimkk.v2.goodday2.top/smt.php?id=viusix_twn
+卫视中文台,http://iiimkk.v2.goodday2.top/smt.php?id=weishichinese_twn
+爱奇艺,http://iiimkk.v2.goodday2.top/smt.php?id=Qiyi
+astro全挂,http://iiimkk.v2.goodday2.top/smt.php?id=Quanjia
+astro双星,http://iiimkk.v2.goodday2.top/smt.php?id=Shuangxing
+astro欢喜台,http://iiimkk.v2.goodday2.top/smt.php?id=Huahee
+astro小太阳,http://iiimkk.v2.goodday2.top/smt.php?id=Xiaotaiyang
+HBO1,http://iiimkk.v2.goodday2.top/smt.php?id=Hbo
+HBO HITS,http://iiimkk.v2.goodday2.top/smt.php?id=hbohead_twn
+HBO-原创,http://iiimkk.v2.goodday2.top/smt.php?id=hbosignature_twn
+HBO家庭,http://iiimkk.v2.goodday2.top/smt.php?id=fyi_twn
+HBO_,http://iiimkk.v2.goodday2.top/smt.php?id=hbohd_twn
+TVB星河,http://iiimkk.v2.goodday2.top/smt.php?id=Xinhe
+東森电影台,http://iiimkk.v2.goodday2.top/smt.php?id=ettvmovie
+纬来电影,http://iiimkk.v2.goodday2.top/smt.php?id=videolandmovie
+龙祥电影台1,http://iiimkk.v2.goodday2.top/smt.php?id=cb7a1fec69
+龙祥电影台,http://iiimkk.v2.goodday2.top/smt.php?id=lungxiangtime_twn
+美亚电影台,http://iiimkk.v2.goodday2.top/smt.php?id=meiyamovie_twn
+星卫电影台,http://iiimkk.v2.goodday2.top/smt.php?id=xingwei_movie
+天映频道1,http://iiimkk.v2.goodday2.top/smt.php?id=Celestialindo
+天映频道2,http://iiimkk.v2.goodday2.top/smt.php?id=Celestial
+好莱坞电影台,http://iiimkk.v2.goodday2.top/smt.php?id=hollywoodmovies_twn
+Thrill,http://iiimkk.v2.goodday2.top/smt.php?id=Thrill
+Boo,http://iiimkk.v2.goodday2.top/smt.php?id=Boo
+星空电影 Movies,http://iiimkk.v2.goodday2.top/smt.php?id=starmovies_raj
+AXN,http://iiimkk.v2.goodday2.top/smt.php?id=Axn
+AXNTW,http://iiimkk.v2.goodday2.top/smt.php?id=axn_twn
+CINEMAX,http://iiimkk.v2.goodday2.top/smt.php?id=cinemax_twn
+龙华戏剧,http://iiimkk.v2.goodday2.top/smt.php?id=lunghuaxiju_twn
+龙华偶像,http://iiimkk.v2.goodday2.top/smt.php?id=lunghuaidol_twn
+龙华洋片,http://iiimkk.v2.goodday2.top/smt.php?id=lunghuawestern_twn
+爱尔达影剧台1,http://iiimkk.v2.goodday2.top/smt.php?id=eltadrama_twn
+爱尔达影剧台2,http://iiimkk.v2.goodday2.top/smt.php?id=eltayingju_twn
+爱尔达综合台,http://iiimkk.v2.goodday2.top/smt.php?id=eltazonghe
+民视,http://iiimkk.v2.goodday2.top/smt.php?id=ftvhd_taiwan
+台视新闻,http://iiimkk.v2.goodday2.top/smt.php?id=ttvnews_twn
+华视,http://iiimkk.v2.goodday2.top/smt.php?id=ctshd_twn
+中视,http://iiimkk.v2.goodday2.top/smt.php?id=zhongshihd_twn
+公视,http://iiimkk.v2.goodday2.top/smt.php?id=ctv_taiwan
+中视新闻,http://iiimkk.v2.goodday2.top/smt.php?id=ca73a13c37
+中视新闻,http://iiimkk.v2.goodday2.top/smt.php?id=zhongshinews_twn
+民视新闻台,http://iiimkk.v2.goodday2.top/smt.php?id=ftvnew_taiwan
+民视台湾台,http://iiimkk.v2.goodday2.top/smt.php?id=ftvtaiwan_twn
+民视第一台,http://iiimkk.v2.goodday2.top/smt.php?id=lunghuajingdian_twn
+三立台湾,http://iiimkk.v2.goodday2.top/smt.php?id=sanlitaiwan
+三立综合台,http://iiimkk.v2.goodday2.top/smt.php?id=sanlizhonghe
+三立戏剧台,http://iiimkk.v2.goodday2.top/smt.php?id=sanlixiju_twn
+中天综合,http://iiimkk.v2.goodday2.top/smt.php?id=ctizhonghe
+中天娱乐,http://iiimkk.v2.goodday2.top/smt.php?id=ctient
+中天新闻,http://iiimkk.v2.goodday2.top/smt.php?id=ctinews
+中天亚洲台,http://iiimkk.v2.goodday2.top/smt.php?id=ctiasia_twn
+TVBS,http://iiimkk.v2.goodday2.top/smt.php?id=tvbs
+TVBS新闻台,http://iiimkk.v2.goodday2.top/smt.php?id=tvbs_n
+TVBS欢乐台,http://iiimkk.v2.goodday2.top/smt.php?id=tvbshuanle_twn
+八大第一台,http://iiimkk.v2.goodday2.top/smt.php?id=badafirst
+八大综合台,http://iiimkk.v2.goodday2.top/smt.php?id=badazhonghe
+八大戏剧台,http://iiimkk.v2.goodday2.top/smt.php?id=badadrama
+纬来日本台,http://iiimkk.v2.goodday2.top/smt.php?id=videolandjapan
+纬来体育,http://iiimkk.v2.goodday2.top/smt.php?id=videolandsport
+東森LIVE,http://iiimkk.v2.goodday2.top/smt.php?id=ettvnews
+東森戏剧,http://iiimkk.v2.goodday2.top/smt.php?id=ettvdrama
+东森财经新闻,http://iiimkk.v2.goodday2.top/smt.php?id=ettvcaijing_twn
+东森洋片,http://iiimkk.v2.goodday2.top/smt.php?id=ettvwestern
+东森超视,http://iiimkk.v2.goodday2.top/smt.php?id=ettvsuper
+东森综合台,http://iiimkk.v2.goodday2.top/smt.php?id=ettvzhonghe
+寰宇新闻台,http://iiimkk.v2.goodday2.top/smt.php?id=huanyuxinwen_twn
+寰宇财经,http://iiimkk.v2.goodday2.top/smt.php?id=huanyutaiwan_twn
+非凡新闻,http://iiimkk.v2.goodday2.top/smt.php?id=feifannews_twn
+年代新闻台,http://iiimkk.v2.goodday2.top/smt.php?id=niandainews_twn
+靖天卡通,http://iiimkk.v2.goodday2.top/smt.php?id=jingtiancartoon_twn
+靖天国际台,http://iiimkk.v2.goodday2.top/smt.php?id=jingtianintl_twn
+动物星球,http://iiimkk.v2.goodday2.top/smt.php?id=animalplanet_twn
+HGTV,http://iiimkk.v2.goodday2.top/smt.php?id=HGTV
+探索频道,http://iiimkk.v2.goodday2.top/smt.php?id=ba86fcd935
+探索频道,http://iiimkk.v2.goodday2.top/smt.php?id=discoveryhd_twn
+探索,http://iiimkk.v2.goodday2.top/smt.php?id=discoverych_twn
+探索亚洲,http://iiimkk.v2.goodday2.top/smt.php?id=discoverytwn_twn
+国家地理野生,http://iiimkk.v2.goodday2.top/smt.php?id=natgeowild_twn
+国家地理,http://iiimkk.v2.goodday2.top/smt.php?id=natgeohd_twn
+博斯运动 1,http://iiimkk.v2.goodday2.top/smt.php?id=bosisport1_twn
+博斯运动2,http://iiimkk.v2.goodday2.top/smt.php?id=bosisport2_twn
+博斯高球1,http://iiimkk.v2.goodday2.top/smt.php?id=bosigolf1_twn
+博斯高球2,http://iiimkk.v2.goodday2.top/smt.php?id=bosigolf2_twn
+博斯网球,http://iiimkk.v2.goodday2.top/smt.php?id=bositennis_twn
+ELEVEN 1,http://iiimkk.v2.goodday2.top/smt.php?id=golfchannel_twn
+EYE戏剧,http://iiimkk.v2.goodday2.top/smt.php?id=eyetvxiju_twn
+EYE旅游,http://iiimkk.v2.goodday2.top/smt.php?id=eyetvtravel_twn
+CN卡通频道,http://iiimkk.v2.goodday2.top/smt.php?id=Cn
+CN卡通频道2,http://iiimkk.v2.goodday2.top/smt.php?id=momo1_twn
+亚洲美食,http://iiimkk.v2.goodday2.top/smt.php?id=afc_twn
+美食星球,http://iiimkk.v2.goodday2.top/smt.php?id=foodplanet_twn
+亚洲旅游台,http://iiimkk.v2.goodday2.top/smt.php?id=asiatravel_twn
+好消息2台,http://iiimkk.v2.goodday2.top/smt.php?id=good2_twn
+大爱台,http://iiimkk.v2.goodday2.top/smt.php?id=daai_twn
+爱尔达体育1台,http://iiimkk.v2.goodday2.top/smt.php?id=eltasport1_twn
+爱尔达体育2台,http://iiimkk.v2.goodday2.top/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://iiimkk.v2.goodday2.top/smt.php?id=eltasport3_twn
+DaaiTV,http://iiimkk.v2.goodday2.top/smt.php?id=DaaiTV
+ABCNews,http://iiimkk.v2.goodday2.top/smt.php?id=abcnews_glo
+Euronews,http://iiimkk.v2.goodday2.top/smt.php?id=euronews_antik
+SkyNews,http://iiimkk.v2.goodday2.top/smt.php?id=skynews_antik
+CNN,http://iiimkk.v2.goodday2.top/smt.php?id=cnn_twn
+新加坡CNA,http://iiimkk.v2.goodday2.top/smt.php?id=cna
+DiscoveryTurbo,http://iiimkk.v2.goodday2.top/smt.php?id=discoveryturbo_twn
+MiaoMi,http://iiimkk.v2.goodday2.top/smt.php?id=MiaoMi
+TLC旅游生活频道,http://iiimkk.v2.goodday2.top/smt.php?id=Tlc
+One,http://iiimkk.v2.goodday2.top/smt.php?id=One
+阿里郎Arirang,http://iiimkk.v2.goodday2.top/smt.php?id=arirang_twn
+NATGEOWILD,http://iiimkk.v2.goodday2.top/smt.php?id=Natgeowild
+BTESPN,http://iiimkk.v2.goodday2.top/smt.php?id=btespn
+BTSports3,http://iiimkk.v2.goodday2.top/smt.php?id=beethree
+BBCWORLDNEWS,http://iiimkk.v2.goodday2.top/smt.php?id=bbcnews_twn
+CBeebies,http://iiimkk.v2.goodday2.top/smt.php?id=Cbeebies
+CNBC,http://iiimkk.v2.goodday2.top/smt.php?id=cnbc_twn
+France24,http://iiimkk.v2.goodday2.top/smt.php?id=france24_twn
+TLC Asia,http://iiimkk.v2.goodday2.top/smt.php?id=tlc_twn
+BBCLifestyle,http://iiimkk.v2.goodday2.top/smt.php?id=bbclifestyle_twn
+Suria,http://iiimkk.v2.goodday2.top/smt.php?id=Suria82
+Suria,http://iiimkk.v2.goodday2.top/smt.php?id=Suria
+RIA,http://iiimkk.v2.goodday2.top/smt.php?id=Ria
+RIA,http://iiimkk.v2.goodday2.top/smt.php?id=Ria_backup
+Bernama,http://iiimkk.v2.goodday2.top/smt.php?id=Bernama82
+Bernama,http://iiimkk.v2.goodday2.top/smt.php?id=Bernama
+Al-Hijrah,http://iiimkk.v2.goodday2.top/smt.php?id=Alhijrah
+Mecca Live,http://iiimkk.v2.goodday2.top/smt.php?id=quran_mido
+Madinah,http://iiimkk.v2.goodday2.top/smt.php?id=sunnah_mido
+Oasis,http://iiimkk.v2.goodday2.top/smt.php?id=Oasis
+Ceria,http://iiimkk.v2.goodday2.top/smt.php?id=Ceria
+Sony,http://iiimkk.v2.goodday2.top/smt.php?id=SetOne
+Supersports 1,http://iiimkk.v2.goodday2.top/smt.php?id=go_assp1
+SPOTV 2,http://iiimkk.v2.goodday2.top/smt.php?id=go_spotv2
+Bein 1 Sports,http://iiimkk.v2.goodday2.top/smt.php?id=bein1_mega
+Bein 2 Sports,http://iiimkk.v2.goodday2.top/smt.php?id=bein2_mega
+Bein 3 Sports,http://iiimkk.v2.goodday2.top/smt.php?id=bein3_mega
+Bein 4 Sports,http://iiimkk.v2.goodday2.top/smt.php?id=bein4_mega
+Bein 5 Sports,http://iiimkk.v2.goodday2.top/smt.php?id=bein5_mega
+Bein 6 Sports,http://iiimkk.v2.goodday2.top/smt.php?id=bein6_mega
+Bein 7 Sports,http://iiimkk.v2.goodday2.top/smt.php?id=bein7_mega
+Bein 1 Premium,http://iiimkk.v2.goodday2.top/smt.php?id=bein1pre_mega
+Bein 2 Premium,http://iiimkk.v2.goodday2.top/smt.php?id=bein2pre_mega
+Bein 3 Premium,http://iiimkk.v2.goodday2.top/smt.php?id=bein3pre_mega
+CBS,http://iiimkk.v2.goodday2.top/smt.php?id=cbshd_glo
+Boomerang,http://iiimkk.v2.goodday2.top/smt.php?id=Boomerang
+Movies Now,http://iiimkk.v2.goodday2.top/smt.php?id=moviesnow_raj
+SCM,http://iiimkk.v2.goodday2.top/smt.php?id=Weishimovie
+AEC,http://iiimkk.v2.goodday2.top/smt.php?id=AEC
+BaBy-TV,http://iiimkk.v2.goodday2.top/smt.php?id=babytv_twn
+Al-Jazeera,http://iiimkk.v2.goodday2.top/smt.php?id=aljazeera_twn
+Animax,http://iiimkk.v2.goodday2.top/smt.php?id=Animax
+Awani,http://iiimkk.v2.goodday2.top/smt.php?id=Awani
+BBC1,http://iiimkk.v2.goodday2.top/smt.php?id=bbc1_antik
+BBC2,http://iiimkk.v2.goodday2.top/smt.php?id=bbc2_antik
+BTSports2,http://iiimkk.v2.goodday2.top/smt.php?id=beetwo
+BloombergNews,http://iiimkk.v2.goodday2.top/smt.php?id=bloomberg_twn
+CBBC,http://iiimkk.v2.goodday2.top/smt.php?id=cbbc_antik
+CBSN,http://iiimkk.v2.goodday2.top/smt.php?id=cbsn_glo
+CGTN,http://iiimkk.v2.goodday2.top/smt.php?id=CGTN
+Channel5Thailand,http://iiimkk.v2.goodday2.top/smt.php?id=ch5_pat
+DW(Deutsch),http://iiimkk.v2.goodday2.top/smt.php?id=dw_twn
+DiscoveryKidsTamil,http://iiimkk.v2.goodday2.top/smt.php?id=discoverykidtamil_raj
+DiscoveryWorldTamil,http://iiimkk.v2.goodday2.top/smt.php?id=discoveryworldtam_raj
+FoxNews,http://iiimkk.v2.goodday2.top/smt.php?id=foxnews_twn
+WWE,http://iiimkk.v2.goodday2.top/smt.php?id=Wwe
+GmmChannel,http://iiimkk.v2.goodday2.top/smt.php?id=gmmchannel_pat
+Channel 5,http://iiimkk.v2.goodday2.top/smt.php?id=Channel5HD
+Channel 81,http://iiimkk.v2.goodday2.top/smt.php?id=Channel8HD
+Channel 8,http://iiimkk.v2.goodday2.top/smt.php?id=Ch8114
+ChannelU,http://iiimkk.v2.goodday2.top/smt.php?id=ChannelU
+TPTV,http://iiimkk.v2.goodday2.top/smt.php?id=tptv_pat
+TV1,http://iiimkk.v2.goodday2.top/smt.php?id=TV1
+TV2,http://iiimkk.v2.goodday2.top/smt.php?id=TV2
+TV3,http://iiimkk.v2.goodday2.top/smt.php?id=TV3
+TV3 backup,http://iiimkk.v2.goodday2.top/smt.php?id=TV382_backup
+TVMU,http://iiimkk.v2.goodday2.top/smt.php?id=TVMU_eko
+NTV71,http://iiimkk.v2.goodday2.top/smt.php?id=NTV7
+TV8,http://iiimkk.v2.goodday2.top/smt.php?id=TV8
+TV9,http://iiimkk.v2.goodday2.top/smt.php?id=TV9
+KBSWorld,http://iiimkk.v2.goodday2.top/smt.php?id=KBS
+KidsTV,http://iiimkk.v2.goodday2.top/smt.php?id=KidsTV
+MCOTThailand-1,http://iiimkk.v2.goodday2.top/smt.php?id=mcot_pat
+Mono,http://iiimkk.v2.goodday2.top/smt.php?id=mono_pat
+MuslimTV,http://iiimkk.v2.goodday2.top/smt.php?id=MuslimTV
+NatGeoTamil,http://iiimkk.v2.goodday2.top/smt.php?id=natgeotamil_raj
+Nation,http://iiimkk.v2.goodday2.top/smt.php?id=nation_pat
+New,http://iiimkk.v2.goodday2.top/smt.php?id=new_pat
+Prima,http://iiimkk.v2.goodday2.top/smt.php?id=Prima
+RTMSports,http://iiimkk.v2.goodday2.top/smt.php?id=Rtmsport
+SCTV,http://iiimkk.v2.goodday2.top/smt.php?id=Sctv
+SonyTen1,http://iiimkk.v2.goodday2.top/smt.php?id=ten1_raj
+StarVijayIndia,http://iiimkk.v2.goodday2.top/smt.php?id=starvijay_raj
+Starmaa,http://iiimkk.v2.goodday2.top/smt.php?id=starmaa_raj
+SunTV,http://iiimkk.v2.goodday2.top/smt.php?id=Suntv
+TawafTV,http://iiimkk.v2.goodday2.top/smt.php?id=TawafTV
+Thairath,http://iiimkk.v2.goodday2.top/smt.php?id=thairath_pat
+Tnn24,http://iiimkk.v2.goodday2.top/smt.php?id=tnn24_pat
+TruePremium1,http://iiimkk.v2.goodday2.top/smt.php?id=truepre1_pat
+TruePremium2,http://iiimkk.v2.goodday2.top/smt.php?id=truepre2_pat
+Tvone,http://iiimkk.v2.goodday2.top/smt.php?id=Tvone
+VisionPrime,http://iiimkk.v2.goodday2.top/smt.php?id=VisionPrime
+Warna,http://iiimkk.v2.goodday2.top/smt.php?id=Warna
+WarnerTV,http://iiimkk.v2.goodday2.top/smt.php?id=WarnerTV
+ZeeNews,http://iiimkk.v2.goodday2.top/smt.php?id=Zeenews
+itv1,http://iiimkk.v2.goodday2.top/smt.php?id=itv1_antik
+itv2,http://iiimkk.v2.goodday2.top/smt.php?id=itv2_antik
+tpbs,http://iiimkk.v2.goodday2.top/smt.php?id=tpbs_pat
+Drama Sangat,http://iiimkk.v2.goodday2.top/smt.php?id=Dsangat
+TVN,http://iiimkk.v2.goodday2.top/smt.php?id=TVN
+AFN,http://iiimkk.v2.goodday2.top/smt.php?id=Afc
+Nick JR,http://iiimkk.v2.goodday2.top/smt.php?id=Nickjr
+Babytv,http://iiimkk.v2.goodday2.top/smt.php?id=Babytv
+AnimalPlanet,http://iiimkk.v2.goodday2.top/smt.php?id=AnimalPlanet
+Nickelodeon,http://iiimkk.v2.goodday2.top/smt.php?id=Nickelodeon
+Goshop,http://iiimkk.v2.goodday2.top/smt.php?id=Goshop
+Bein 1 Xtra,http://iiimkk.v2.goodday2.top/smt.php?id=bein1xtra_mega
+NatGeo,http://iiimkk.v2.goodday2.top/smt.php?id=Natgeo
+BBC Earth,http://iiimkk.v2.goodday2.top/smt.php?id=bbcearth_twn
+HISTORY,http://iiimkk.v2.goodday2.top/smt.php?id=History
 
 
 🎈央视直播,#genre#
@@ -407,7 +411,7 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南4K试验,http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -476,7 +480,7 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 深圳卫视,https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
 四川卫视,https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
 山东卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
-河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
 河北卫视,https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
 江西卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
 天津卫视,https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
@@ -577,7 +581,7 @@ CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -835,6 +839,8 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 广东卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
 广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,http://218.204.51.252:9901/tsfile/live/1031_1.m3u8
+河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
+河南卫视,http://218.204.51.252:9901/tsfile/live/1039_1.m3u8
 山西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
 山西卫视,http://218.204.51.252:9901/tsfile/live/1043_1.m3u8
 兵团卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
@@ -998,7 +1004,7 @@ CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 BesTV-4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
-河南卫视,http://www.hezw.top:7412/rtp/239.21.2.37:5002
+河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
@@ -1210,7 +1216,7 @@ CHC动作电影 标清,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
 深圳卫视,https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
 四川卫视,https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
 山东卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
-河南卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5
+河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
 河北卫视,https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
 江西卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
 天津卫视,https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
@@ -2604,7 +2610,7 @@ Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://121.51.
 最新奇幻电影解说-宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
 
 🏀⛹️体育,#genre#
-河南卫视,http://222.175.159.226:808/hls/202361/index.m3u8
+河南卫视+武林风十八周年庆典+功夫盛典回放,http://111.62.156.15/tx.flv.huya.com/src/1711747086-1711747086-7351897753393299456-3423617628-10057-A-0-1.flv?wsSecret=e2439fa6cb8de38cb07c597d3f5a3684&wsTime=6283a69c&u=0&seqid=16527086367547690&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
 向阳花,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.flv?wsSecret=befc0eeef116f6c5813524a0c6c380ca&wsTime=62862ad3&u=0&seqid=16528735548110000&ctype=tars_mobile&fs=bgct&t=103
 小溪的柔韧空间+妹子群殴时刻+女人的战争,http://111.62.156.15/tx.flv.huya.com/src/1099531627889-1099531627889-85899831251304448-2199063379234-10057-A-0-1.flv?wsSecret=7006c4b5065e8151f6b97427995d0a58&wsTime=6283a6af&u=0&seqid=16527086553225650&ctype=tars_mp&fs=bgct&t=102
 苏苏的小生活+大布罗曼决战摔角狂热！,http://111.62.156.15/tx.flv.huya.com/src/1099531627965-1099531627965-85900157668818944-2199063379386-10057-A-0-1.flv?wsSecret=ee45c9feb1adca4748ec8195f1713af8&wsTime=6283a6b1&u=0&seqid=16527086579479530&ctype=tars_mp&fs=bgct&t=102
@@ -3024,7 +3030,7 @@ CHC高清电影,http://ct.whosayssowhat.top:4022/udp/239.77.0.27:5146
 广西卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.139:5146
 东南卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.146:5146
 河北卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.148:5146
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,http://ct.whosayssowhat.top:4022/udp/239.77.1.229:5146
 江西卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.149:5146
 辽宁卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.123:5146
 吉林卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.150:5146
@@ -4870,7 +4876,7 @@ CHANNEl V,http://113.117.74.17:808/hls/88/index.m3u8
 涪陵电视台,http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
 
 ⛱️河南,#genre#
-河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
+河南,http://39.135.55.105:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1?zhend
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 中牟综合频道,http://rtsp.zmgdcm.cn:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect.m3u8?zhend
