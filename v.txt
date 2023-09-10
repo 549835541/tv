@@ -271,7 +271,7 @@ CCTV17,https://dispatchnew.ulivetv.net/v/live/cgmur41547nk.m3u8?stream_id=cgmur4
 云南卫视,https://dispatchnew.ulivetv.net/v/live/cgx3ceil31s0.m3u8?stream_id=cgx3ceil31s0&token=c0vzuc7wqkzk
 广东卫视,https://dispatchnew.ulivetv.net/v/live/cgwvo5slhbcw.m3u8?stream_id=cgwvo5slhbcw&token=c0vzuc7wqkzk
 安徽卫视,https://dispatchnew.ulivetv.net/v/live/cgx3d4vuzwe8.m3u8?stream_id=cgx3d4vuzwe8&token=c0vzuc7wqkzk
-河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
+河南卫视,http://111.20.35.103:6610/000000001000/7304224304099543804/index.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=00
 青海卫视,https://dispatchnew.ulivetv.net/v/live/cgx3cr9px5ts.m3u8?stream_id=cgx3cr9px5ts&token=c0vzuc7wqkzk
 第一财经,https://dispatchnew.ulivetv.net/v/live/ckwkwro7fwe8.m3u8?stream_id=ckwkwro7fwe8&token=c0vzuc7wqkzk
 北京财经,https://dispatchnew.ulivetv.net/v/live/cgxaky5ampj4.m3u8?stream_id=cgxaky5ampj4&token=c0vzuc7wqkzk
