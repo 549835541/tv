@@ -3589,7 +3589,7 @@ Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://121.51.
 涪陵电视台,http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
 
 ⛱️河南,#genre#
-河南,http://39.135.55.105:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1?zhend
+河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 中牟综合频道,http://rtsp.zmgdcm.cn:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect.m3u8?zhend
