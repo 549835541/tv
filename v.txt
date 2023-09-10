@@ -407,7 +407,7 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河南4K试验,http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -476,7 +476,7 @@ CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/20125
 深圳卫视,https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
 四川卫视,https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
 山东卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
-河南卫视,https://live.goodiptv.club/api/ghyx.php?id=HeNanHD_6000
+河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 河北卫视,https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
 江西卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
 天津卫视,https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
@@ -577,7 +577,7 @@ CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 吉林卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 山东卫视 8M,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 江西卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 河北卫视 8M,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 甘肃卫视 8M,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 重庆卫视 8M,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
@@ -835,8 +835,6 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 广东卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
 广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,http://218.204.51.252:9901/tsfile/live/1031_1.m3u8
-河南卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
-河南卫视,http://218.204.51.252:9901/tsfile/live/1039_1.m3u8
 山西卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
 山西卫视,http://218.204.51.252:9901/tsfile/live/1043_1.m3u8
 兵团卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
@@ -1000,7 +998,7 @@ CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 BesTV-4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
-河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
+河南卫视,http://www.hezw.top:7412/rtp/239.21.2.37:5002
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
@@ -1212,7 +1210,7 @@ CHC动作电影 标清,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
 深圳卫视,https://live.goodiptv.club/api/ghyx.php?id=ShenZhenHD_6000
 四川卫视,https://live.goodiptv.club/api/ghyx.php?id=SiChuanHD_6000
 山东卫视,https://live.goodiptv.club/api/ghyx.php?id=ShanDongHD_6000
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5
 河北卫视,https://live.goodiptv.club/api/ghyx.php?id=HeBeiHD_6000
 江西卫视,https://live.goodiptv.club/api/ghyx.php?id=JiangXiHD_6000
 天津卫视,https://live.goodiptv.club/api/ghyx.php?id=TianJinHD_6000
@@ -2606,7 +2604,7 @@ Adam短发 海贼王我抢了尾田的笔动画从奥哈拉屠魔,http://121.51.
 最新奇幻电影解说-宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
 
 🏀⛹️体育,#genre#
-河南卫视+武林风十八周年庆典+功夫盛典回放,http://111.62.156.15/tx.flv.huya.com/src/1711747086-1711747086-7351897753393299456-3423617628-10057-A-0-1.flv?wsSecret=e2439fa6cb8de38cb07c597d3f5a3684&wsTime=6283a69c&u=0&seqid=16527086367547690&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
+河南卫视,http://222.175.159.226:808/hls/202361/index.m3u8
 向阳花,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.flv?wsSecret=befc0eeef116f6c5813524a0c6c380ca&wsTime=62862ad3&u=0&seqid=16528735548110000&ctype=tars_mobile&fs=bgct&t=103
 小溪的柔韧空间+妹子群殴时刻+女人的战争,http://111.62.156.15/tx.flv.huya.com/src/1099531627889-1099531627889-85899831251304448-2199063379234-10057-A-0-1.flv?wsSecret=7006c4b5065e8151f6b97427995d0a58&wsTime=6283a6af&u=0&seqid=16527086553225650&ctype=tars_mp&fs=bgct&t=102
 苏苏的小生活+大布罗曼决战摔角狂热！,http://111.62.156.15/tx.flv.huya.com/src/1099531627965-1099531627965-85900157668818944-2199063379386-10057-A-0-1.flv?wsSecret=ee45c9feb1adca4748ec8195f1713af8&wsTime=6283a6b1&u=0&seqid=16527086579479530&ctype=tars_mp&fs=bgct&t=102
