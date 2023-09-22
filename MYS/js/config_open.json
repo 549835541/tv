@@ -5,13 +5,13 @@
         "key": "kkys",
         "name": "龙龙🐉快看",
         "type": 3,
-        "api": "kkys_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/kkys_open.js"
     },
 {
         "key": "wogg",
         "name": "龙龙🐉玩偶",
         "type": 3,
-        "api": "wogg.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/wogg.js",
         "ext": "a8819eb8c5fc40b48bf82583e5c192ed"
       },
 {
@@ -24,160 +24,160 @@
         "key": "ytvip",
         "name": "龙龙🐉 影探",
         "type": 3,
-        "api": "yt.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/yt.js",
         "ext": "http://ytcms.lyyytv.cn/api.php/app/"
       },
 {
   "key": "yzys",
   "name": "龙龙🐉柚子",
   "type": 3,
-  "api": "./yzys_open.js"
+  "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/yzys_open.js"
 },
 {
         "key": "czzy",
         "name": "龙龙🐉厂长",
         "type": 3,
-        "api": "czzy_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/czzy_open.js"
    },
 {
         "key": "ng",
         "name": "龙龙🐉南瓜",
         "type": 3,
-        "api": "ng_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/ng_open.js"
    },
 {
         "key": "subaibai",
         "name": "龙龙🐉素白白",
         "type": 3,
-        "api": "subaibai_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/subaibai_open.js"
    },
 {
         "key": "libvio",
         "name": "龙龙🐉立波",
         "type": 3,
-        "api": "libvio_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/libvio_open.js"
    },
   {
         "key": "555dy",
         "name": "龙龙🐉555",
         "type": 3,
-        "api": "555dy_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/555dy_open.js"
     },  
              {
                 "key": "yrzj",
                 "name": "💝  伊人",
                 "type": 3,
-                "api": "yrzj_open.js"
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/yrzj_open.js"
             },
 	  {
         "key": "zxzj",
         "name": "龙龙🐉在线之家",
         "type": 3,
-        "api": "zxzj_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/zxzj_open.js"
       },
       {
         "key": "yanetflix",
         "name": "龙龙🐉鸭奈飞",
         "type": 3,
-        "api": "AppYsV2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/AppYsV2.js",
         "ext": "https://yanetflix.me/api.php/app/"
       },
 {
                 "key": "yaya",
                 "name": "龙龙🐉耐菲",
                 "type": 3,
-                "api": "AppYsV2.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/AppYsV2.js",
                 "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
             },
             {
       "key": "宝仙（APP）",
       "name": "龙龙🐉宝仙",
       "type": 3,
-      "api": "AppYsV2.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/AppYsV2.js",
       "ext": "https://webdillo.com/api.php/app/"
    },
             {
                 "key": "lyys",
                 "name": "龙龙🐉蓝雨",
                 "type": 3,
-                "api": "appysv2.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
                 "ext": "http://mp4.ghlyys.com/api.php/app/"
             },	
       {
         "key": "aidi",
         "name": "龙龙🐉爱迪",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext": "https://api123.adys.app/xgapp.php/v3/"
       },
       {
         "key": "hello",
         "name": "龙龙🐉哈喽",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext":"http://www.miniku.cc/xgapp.php/v1/"
       },
 {
         "key": "kuying",
         "name": "龙龙🐉酷影",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
       },
       {
         "key": "qiqi",
         "name": "龙龙🐉琦琦",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext": "http://mp4.ghlyys.com/api.php/app/"
       },
       {
         "key": "sukan",
         "name": "龙龙🐉速看",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext": "https://sk100.tv/api.php/app/"
       },
       {
         "key": "miniku",
         "name": "龙龙🐉迷你库",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext":"http://www.miniku.cc/xgapp.php/v1/"
       },
       {
         "key": "aliys",
         "name": "龙龙🐉阿里影视",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext": "http://aliys.cn:90/api.php/v1.vod"
       },
       {
         "key": "dadou",
         "name": "龙龙🐉大豆高清",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext": "http://www.dadou.cm/api.php/app/"
       },
 {
         "key": "dytt",
         "name": "龙龙🐉电影天堂",
         "type": 3,
-        "api": "appysv2.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
         "ext": "http://dytt996.com/api.php/app/"
       },
 {
 "key": "69mj",
 "name": "龙龙🐉69美剧",
 "type": 3,
-"api": "appysv2.js",
+"api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/appysv2.js",
 "ext": "https://www.69mj.com/xgapp.php/v2/"
   },
 {
             "key": "1080dyw",
             "name": "龙龙🐉1080",
             "type": 3,
-            "api": "AppYsV2.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/AppYsV2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -190,21 +190,21 @@
                 "key": "feifan",
                 "name": "龙龙🐉非凡",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
             },
            {
                 "key": "liangzi",
                 "name": "龙龙🐉量子",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
             },
 {
         "key": "suoni",
         "name": "龙龙🐉索尼",
         "type": 3,
-        "api": "caijiok.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caijiok.js",
         "ext": {
           "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
           "categories": [
@@ -231,7 +231,7 @@
 "key":"快帆",
 "name":"龙龙🐉快帆",
 "type":3,
-"api":"caijiok.js",
+"api":"https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caijiok.js",
  "ext": {
           "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
 "categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]}},
@@ -239,151 +239,151 @@
          "key": "shayuapi",
          "name": "龙龙🔞鲨鱼",
          "type": 3,
-         "api": "caiji.js",
+         "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
          "ext": "https://shayuapi.com/api.php/provide/vod/"
       },
        {
          "key": "apilyzy",
          "name": "龙龙🔞老鸭",
          "type": 3,
-         "api": "caiji.js",
+         "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
          "ext": "https://api.apilyzy.com/api.php/provide/vod/"
       },
      {
          "key": "sewozy",
          "name": "龙龙🔞涩窝",
          "type": 3,
-         "api": "caiji.js",
+         "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
          "ext": "https://sewozyapi.com/api.php/provide/vod"
       },
             {
                 "key": "xiaocao",
                 "name": "龙龙🔞小草",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/"
             },
          {
                 "key": "zy018",
                 "name": "龙龙🔞十八",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://www.zy018.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "9szy",
                 "name": "龙龙🔞九色",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://9szy.net/api.php/provide/vod/at/json"
             },
             {
                 "key": "apivodkok2",
                 "name": "龙龙🔞KOK",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://api.vodkok2.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "api.maozyapi.com",
                 "name": "龙龙🔞猫咪",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
             },
             {
                 "key": "putaozyw",
                 "name": "龙龙🔞葡萄",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
             },
             {
                 "key": "apiyirenziyuan",
                 "name": "龙龙🔞伊人",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://api.yirenziyuan.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "kaiyunzy4",
                 "name": "龙龙🔞开云",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://kaiyunzy5.com/inc/apijson_vod.php"
             },
             {
                 "key": "seyavod",
                 "name": "龙龙🔞色鸭",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://api.seyavod.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "jizhiapi",
                 "name": "龙龙🔞极致",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://jizhiapi.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "timizy10",
                 "name": "龙龙🔞甜蜜",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
             },
             {
                 "key": "sexnguon",
                 "name": "龙龙🔞南国",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://api.sexnguon.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "hongxiuzy",
                 "name": "龙龙🔞红袖",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://hongxiuzy.com/api.php/provide/vod/"
             },
             {
                 "key": "apilsbzy1",
                 "name": "龙龙🔞色批",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
             },
 {
                 "key": "chujia",
                 "name": "龙龙🔞精东",
                 "type": 3,
-                "api": "caiji.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/caiji.js",
                 "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8/"
             },
 {
         "key": "kuqimv",
         "name": "龙龙🎤酷奇MV",
         "type": 3,
-        "api": "kuqimv_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/kuqimv_open.js"
    },
 {
         "key": "sharenice",
         "name": "龙龙🎬短视频",
         "type": 3,
-        "api": "sharenice_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/sharenice_open.js"
    },
 {
         "key": "mybili",
         "name": "龙龙🔱  哔哩",
         "type": 3,
-        "api": "mybili_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/mybili_open.js"
    },
      {
         "key": "bili",
         "name": "龙龙🔱 哔沙雕",
         "type": 3,
-        "api": "bili_open.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/bili_open.js",
         "ext": {
           "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",
           "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
@@ -393,57 +393,57 @@
         "key": "cntv",
         "name": "龙龙🩸 央视网",
         "type": 3,
-        "api": "cntv_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/cntv_open.js"
       },
 	  {
         "key": "boosj",
         "name": "龙龙🔫 童乐趣",
         "type": 3,
-        "api": "boosj_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/boosj_open.js"
       },
 	  {
         "key": "tuxiaobei",
         "name": "龙龙🐰 兔小贝",
         "type": 3,
-        "api": "tuxiaobei_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/tuxiaobei_open.js"
       },
 	  {
         "key": "ubestkid",
         "name": "龙龙🐯 贝乐虎",
         "type": 3,
-        "api": "ubestkid_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/ubestkid_open.js"
       },
 
 {
         "key": "蜜桃",
         "name": "龙龙🍑  蜜桃",
         "type": 3,
-        "api": "mtsp_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/mtsp_open.js"
       },
 {
                 "key": "18av",
                 "name": "龙龙🔞18AV",
                 "type": 3,
-                "api": "18av_open.js"
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/18av_open.js"
             },
   {
         "key": "nivod",
         "name": "龙龙🦤 泥巴✈︎",
         "type": 3,
-        "api": "nivod_open.js",
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/nivod_open.js",
         "ext": "做爱"
     }, 
 {
         "key": "duboku",
         "name": "龙龙🦩 独播✈︎",
         "type": 3,
-        "api": "duboku_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/duboku_open.js"
     }, 
     {
         "key": "dubokufq",
         "name": "龙龙😎 独播酷✈︎",
         "type": 3,
-        "api": "duboku2_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/duboku2_open.js"
     }  
     ]
   },
@@ -453,25 +453,25 @@
               "key": "bookan",
               "name": "龙龙🎧博看听书",
               "type": 10,
-              "api": "bookan_open.js"
+              "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/bookan_open.js"
           },
 {
         "key": "230ts",
         "name": "龙龙🎧爱尚听书",
         "type": 10,
-        "api": "230ts_book_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/230ts_book_open.js"
    },
 {
               "key": "laobai",
               "name": "龙龙🎧老白故事",
               "type": 10,
-              "api": "lbgs_open.js"
+              "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/lbgs_open.js"
           },
   {
         "key": "dj0898",
         "name": "龙龙🎸世纪DJ",
         "type": 10,
-        "api": "dj0898_book_open.js"
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/dj0898_book_open.js"
       }
       ]
   },
@@ -481,7 +481,7 @@
                 "key": "alist",
                 "name": "Alist",
                 "type": 40,
-                "api": "alist_open.js",
+                "api": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/MYS/js/alist_open.js",
                 "ext": [
                     {
                         "name": "龙龙🙋丫仙女",
